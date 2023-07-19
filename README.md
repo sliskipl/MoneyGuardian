@@ -1,2 +1,2 @@
 # MoneyGuardian
-Report issues found in moneyguardian.pl
+Report issues found in https://moneyguardian.pl
